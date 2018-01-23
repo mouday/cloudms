@@ -8,4 +8,4 @@
 将数据库由文本文件转为sqlite3
 
 界面截图
-![demo]("images\demo.png")
+![demo]("images/demo.png")
